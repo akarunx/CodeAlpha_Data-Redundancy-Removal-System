@@ -19,7 +19,8 @@ This project is a Data Redundancy Removal System that identifies, validates, and
 2. Run the project:
    ```bash
    python main.py
-   🎯 Objective
+
+🎯 Objective
 To improve database performance by eliminating duplicate and redundant data while maintaining accuracy and consistency.
 📈 Future Enhancements
 🔍 Advanced duplicate detection (email/phone validation)
